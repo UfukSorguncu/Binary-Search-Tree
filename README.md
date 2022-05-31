@@ -1,4 +1,4 @@
-# Binary-Searh-Tree
+# Binary-Search-Tree
 Verilen  düzensiz array list ile rastgele bir root seçerek ağaç oluşturuyoruz
 
 Proje 3
