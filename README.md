@@ -1,5 +1,5 @@
 # Binary-Searh-Tree
-Verilen  düzensiz dizin ile rastgele bir root seçerek ağaç oluşturuyoruz
+Verilen  düzensiz array list ile rastgele bir root seçerek ağaç oluşturuyoruz
 
 Proje 3
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
